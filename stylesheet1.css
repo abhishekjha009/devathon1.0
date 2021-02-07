@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/ff/5a/a9/ff5aa9f0387f70a6bf710caeb45ee699.jpg");
+    font-family:"Times Now Roman";
+    margin:0;
+}
+.header span{
+    color:chocolate;
+}
+.footer-logo h1{
+    color:rgb(42, 117, 12);
+}
+.header{
+    color:rgba(8, 114, 8, 0.795);
+    font-size: 28;
+}
+.header-contents{
+    color:black;
+}
+.main1{
+    color:rgb(13, 26, 206);
+    font-size:24;
+}
+.main2{
+    color:rgb(13, 26, 206);
+    font-size:24;
+}
+.footer-logo h1 span{
+color:rgb(175, 62, 27)
+}
